@@ -2,7 +2,7 @@
   Greetings! (৹╹◡◠৹)✧˖</br>I'm Rafael.
 </h1>
 
-> "Stay Determined. 🎇"
+> "Stay Determined. ✨"
 
 ## About me
 
@@ -10,7 +10,7 @@ Currently studying Computer Science at [CESAR School](https://www.cesar.school/)
 
 Passionate about games (especially indie games) 🎮 and RPG 🎲
 
-🎵 Music is life! 🎹✨
+🎵 Music is life! 🎹🩵
 
 ---
 
