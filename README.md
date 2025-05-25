@@ -43,7 +43,9 @@ Passionate about games (especially indie games) 🎮 and RPG 🎲
 
 ## Stats 📊
 
-
+![](https://github-readme-stats.vercel.app/api?username=RafaCappetta&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCappetta&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RafaCappetta&theme=tokyonight&hide_border=false)
 
 ---
 
